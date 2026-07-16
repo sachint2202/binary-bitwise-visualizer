@@ -1,3 +1,11 @@
+---
+title: "How JS handle Numbers"
+date: "2026-07-16"
+description: "All about Number variable, its handling, limitations and edge cases"
+author: "Sachin Tiwari"
+slug: "javascript-number"
+---
+
 # Understanding JavaScript Number
 
 In JS, a variable can be of type number. This means a variable having type number can store numerical data—signed, integer and floating.
